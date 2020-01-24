@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Development of the transport system in Barcelona
+*[Miguel Granica, Kevin Forster]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona & 24.1.2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,52 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+In this project we looked at the development of the transport system in Barcelon. A studie Ajuntament de Barcelona [Link](https://www.barcelona.cat/mobilitat/sites/default/files/documents/pmu_sintesi_catala.pdf) shows on one side an increase of walking and the use of bikes or public transport in Barcelona. On the other side the use of vehicles is supposed to decrease. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+We defined different hypotheses during our project
+- How many people use which kind of transportation in BCN
+- How many people use the Bicing in Barcelona?
+- How ecological are the eBikes and how many people use it?
+- How has the use of transportation changed in the last 3 years in Barcelona?
+- Is there any difference to notice in the neighbourhood of BCN
+- Are people sharing their cars?
+- Age of the drivers?
+- How many accidents are caused in BCN yearly? And where?
+- What is the relation in the use public transport to the use of private vehicles?
+...
+
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+
+Hypotheses
+https://www.barcelona.cat/mobilitat/sites/default/files/documents/pmu_sintesi_catala.pdf
+Types of vehicles 
+- https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-vehicles-tipus-propietari-motos
+- https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-vehicles-tipus-propietari-turismes 
+Data neighbourhood
+- https://opendata-ajuntament.barcelona.cat/data/es/dataset/estacions-bus/resource/2d190658-93ac-4c43-a23f-c5d313b1ae9c
+- https://opendata-ajuntament.barcelona.cat/data/es/dataset/bicing
+- https://opendata-ajuntament.barcelona.cat/data/es/dataset/transports/resource/e07dec0d-4aeb-40f3-b987-e1f35e088ce2
+Population 
+- https://opendata-ajuntament.barcelona.cat/data/es/dataset/est-densitat
+
+
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+<img src="img_database"> 
+Or you can also use the following link: https://www.lucidchart.com/invitations/accept/66873071-f1d0-4b1b-a0cc-a680fb98c212
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+We first planned our project by creating tickets in Trello (see link below). Then we both researched for interesting topics and also for data. Once we had the data and an intersting topic we defined the project goal together. At the end of our project we compared our results, discussed them and used it for the presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+We used MySQL in SequelPro and Workbench. We created the database together, before we shared it and then each of us was able to work on it. 
+In the folder you will find the SQL document and the database we used. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/kevforster/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/1CXAd9KxXek-5J3bvBeLOqiHbbhMrriUQ4gUuwJV6UU0/edit?usp=sharing)  
+[Trello](https://trello.com/b/ASvLlwH9/project-2-development-of-the-transportation-system-in-barcelona)  
