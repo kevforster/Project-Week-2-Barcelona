@@ -49,7 +49,7 @@ Population
 
 
 ## Database
-<img src="img_database"> 
+<img src="img_database.jpg"> 
 Or you can also use the following link: https://www.lucidchart.com/invitations/accept/66873071-f1d0-4b1b-a0cc-a680fb98c212
 
 ## Workflow
